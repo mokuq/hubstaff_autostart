@@ -1,4 +1,4 @@
-# hubstraff_autostart
+# Hubstraff client autostart
 
 Script for AutoIt for runnning and starting hubstaff client. 
 
