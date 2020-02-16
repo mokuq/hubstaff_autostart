@@ -6,4 +6,4 @@ Compile it in AutoIt editor (https://www.autoitscript.com/autoit3/docs/intro/com
 
 Precondition for running exe file:
 1) signed in
-2) time in your PC was synchronized
+2) time in your PC is synchronized
